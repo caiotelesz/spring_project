@@ -13,19 +13,19 @@ O objetivo deste projeto é demonstrar como criar uma aplicação CRUD básica u
 
 ## Exemplos de Operações CRUD
 
-### Create (POST /alunos)
+### Create (POST /exemplo)
 
 ![Create](images/create.png)
 
-### Read (GET /alunos)
+### Read (GET /exemplo)
 
 ![Read](images/read.png)
 
-### Update (PUT /alunos/{id})
+### Update (PUT /exemplo/{id})
 
 ![Update](images/update.png)
 
-### Delete (DELETE /alunos/{id})
+### Delete (DELETE /exemplo/{id})
 
 ![Delete](images/delete.png)
 <br><br>
